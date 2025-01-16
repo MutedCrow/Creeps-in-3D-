@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1736878433
+::res://::1737051239
 default_bus_layout.tres::AudioBusLayout::-1::1736535672::0::1::::<><>::
 default_env.tres::Environment::-1::1736535672::0::1::::<><>::
 icon.png::CompressedTexture2D::1926206089823129914::1736535460::1736535690::1::::<><>::
@@ -15,6 +15,10 @@ pupil.material::StandardMaterial3D::-1::1736535460::0::1::::<><>::
 ::res://fonts/::1736535690
 LICENSE.txt::TextFile::-1::1736535460::0::1::::<><>::
 Montserrat-Medium.ttf::FontFile::957335183319259285::1736535461::1736535690::1::::<><>::
-::res://scenes/::1736538962
-main.tscn::PackedScene::2677204774922247342::1736538962::0::1::::<><>::
+::res://scenes/::1736883911
+main.tscn::PackedScene::2677204774922247342::1736883911::0::1::::<><>::uid://cj5kk1opwkfc6::::res://scenes/player.tscn
+mob.gd::GDScript::-1::1736883508::0::1::::<>CharacterBody3D<>::
+mob.tscn::PackedScene::3984556538452504252::1736883911::0::1::::<><>::res://scenes/mob.gd<>uid://c3tw1e8gn605e::::res://art/mob.glb
+player.gd::GDScript::-1::1736881017::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::5467098708562695687::1736883911::0::1::::<><>::uid://qb65ur6dxbdi::::res://art/player.glb<>res://scenes/player.gd
 ::res://scripts/::1736535770
