@@ -14,6 +14,7 @@ script = ExtResource("1_4ue18")
 [node name="mob" parent="Pivot" instance=ExtResource("2_fld35")]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
 shape = SubResource("BoxShape3D_b215g")
 
 [node name="VisibleOnScreenNotifier3D" type="VisibleOnScreenNotifier3D" parent="."]
